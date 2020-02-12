@@ -1,7 +1,8 @@
 <template>
-  <div id="app">
-   这是app根组件
-  </div>
+<div id="app">
+<router-view></router-view>
+</div>
+
 </template>
 <script>
 
